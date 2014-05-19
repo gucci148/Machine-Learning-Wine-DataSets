@@ -1,12 +1,17 @@
 Machine-Learning-Wine-DataSets
 ==============================
 
-Measuring effectiveness of kmean clustering and different classification algorithms using WEKA's API for Java. 
+#### Measuring effectiveness of kmean clustering and different classification algorithms using WEKA's API for Java. 
 
 
 
-Todo write usage
+###### Todo
+  - write usage
+  - classification modelling
+  - evaluation 
+  - javadocs
 
-update csv file and arff file in driver
-compile 
-run
+###### Run instructions
+  - update csv file and arff file in driver
+  - compile 
+  - run
